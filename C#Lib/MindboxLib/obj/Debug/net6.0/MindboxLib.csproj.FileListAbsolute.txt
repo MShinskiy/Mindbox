@@ -1,0 +1,12 @@
+D:\Projects\C#\MindboxLib\bin\Debug\net6.0\MindboxLib.deps.json
+D:\Projects\C#\MindboxLib\bin\Debug\net6.0\MindboxLib.dll
+D:\Projects\C#\MindboxLib\bin\Debug\net6.0\MindboxLib.pdb
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.csproj.AssemblyReference.cache
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.AssemblyInfoInputs.cache
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.AssemblyInfo.cs
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.dll
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\refint\MindboxLib.dll
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\MindboxLib.pdb
+D:\Projects\C#\MindboxLib\obj\Debug\net6.0\ref\MindboxLib.dll
